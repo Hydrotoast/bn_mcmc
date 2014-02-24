@@ -1,0 +1,8 @@
+obj/*
+bin/*
+
+# TeX artifacts
+*.bbl
+*.aux
+*.blg
+*.log
